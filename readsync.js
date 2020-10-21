@@ -8,7 +8,7 @@ function myReadFile(src){
 }
 
 
-var src = "C:/Users/aimiliya/java/src/10_19lianxi";
+var src = "C:/Users/aimiliya/nodejs/10_19lianxi";
 var fileName = "1.txt"
 myReadFile(path.join(src, fileName));
 

@@ -6,7 +6,7 @@ function myWriteFile(dst, content) {
 	fs.writeFileSync(dst, content, "utf-8");
 }
 
-var dst = "C:/Users/aimiliya/java/src/10_19lianxi";
+var dst = "C:/Users/aimiliya/nodejs/10_19lianxi";
 var fileName = "1.txt";
 var content = "憨憨华华与吃辣的小洋";
 

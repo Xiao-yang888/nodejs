@@ -15,8 +15,8 @@ function myCopy(src,dst){
 	fs.writeFileSync(dst, fs.readFileSync(src,"utf-8"), "utf-8");
 }
 
-var dst = "C:/Users/aimiliya/java/src/10_19lianxi";
-var src = "C:/Users/aimiliya/java/src/10_19lianxi";
+var dst = "C:/Users/aimiliya/nodejs/10_19lianxi";
+var src = "C:/Users/aimiliya/nodejs/10_19lianxi";
 var fileName1 = "1.txt";
 var fileName2 = "2.txt";
 

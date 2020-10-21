@@ -1,6 +1,6 @@
 const fs = require("fs");
 
-var path = "./99.txt"
+var path = "./100.txt"
 fs.unlink(path,function(err){
 	if (err){
 		console.log(err);
